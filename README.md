@@ -41,6 +41,8 @@ Student Learning Outcomes: After successfully completing this course the student
 
 ## SDS237 Data Ethnography
 
+Without rich documentation, quantitative data can strip away critical context needed to interpret values responsibly. This course introduces students to the theory and practice of data ethnography, demonstrating how qualitative data collection and analysis can be brought to bear on the study of data settings and artifacts. Through experiential exercises, students will learn techniques in field-note writing, participant observation, in-depth interviewing, documentary analysis, and archival research and how they may be used to contextualize the cultural underpinnings of datasets. Students will learn how to visualize datasets in ways that foreground their socio-political provenance in R. Students will also learn how ethnographic methods can be leveraged to improve data documentation and communication. The course will introduce debates regarding the politics of techno-scientific fieldwork.
+
 Upon completion of this course, you should be able to:
 
 * Recognize, interpret, and communicate the cultural underpinnings of data resources, infrastructures, and practices
