@@ -1,4 +1,4 @@
-# SDS courses at Smith and Key Takeaways 
+# SDS Courses at Smith and Key Takeaways 
 
 ## SDS192 Introduction to Data Science
 
@@ -14,7 +14,7 @@ On top of the goals of the above description, this semester you will:
 * Maps and spatial data: Maps and geospatial data.
 * Learning how to learn new data science tools: SQL
 
-## Introduction to Statistics and Probability
+## SDS220 Introduction to Statistics and Probability
 
 An application-oriented introduction to modern statistical inference: study design, descriptive statistics; random variables; probability and sampling distributions; point and interval estimates; hypothesis tests, resampling procedures and multiple regression. A wide variety of applications from the natural and social sciences are used. Classes meet for lecture/discussion and for a required laboratory that emphasizes analysis of real data. SDS 220 satisfies the basic requirement for biological science, engineering, environmental science, neuroscience and psychology.
 
