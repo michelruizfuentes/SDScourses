@@ -14,6 +14,17 @@ On top of the goals of the above description, this semester you will:
 * Maps and spatial data: Maps and geospatial data.
 * Learning how to learn new data science tools: SQL
 
+## Introduction to Statistics and Probability
+
+An application-oriented introduction to modern statistical inference: study design, descriptive statistics; random variables; probability and sampling distributions; point and interval estimates; hypothesis tests, resampling procedures and multiple regression. A wide variety of applications from the natural and social sciences are used. Classes meet for lecture/discussion and for a required laboratory that emphasizes analysis of real data. SDS 220 satisfies the basic requirement for biological science, engineering, environmental science, neuroscience and psychology.
+
+By the end of the course, statisticians (ie. you!) will be able to…
+
+* Responsibly use sample data to learn about a larger population, using exploratory and inferential statistics - Create Statistics
+* Detail the power and limitations of statistical concepts, and use this understanding to evaluate statistics from various contexts - Evaluate Statistics
+* Explain the connection between probability and inferential statistics - Connect Statistical Concepts
+* Work collaboratively, responsibly, and reflectively to create and present statistics to a wide variety of audiences - Communicate with Statistics
+
 ## SDS237 Data Ethnography
 
 Upon completion of this course, you should be able to:
